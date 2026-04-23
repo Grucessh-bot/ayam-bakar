@@ -1,0 +1,4 @@
+NIM	:251130206
+NAMA	:Pajry Ananda Lingga
+KELAS	:TI A SORE
+NO PC	:18
