@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+}
+
+p {
+    color: green;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    height: 800px;
+    background-color: aqua;
+    color: aliceblue;
+}
+
+p#kedua {
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list {
+    color: cornsilk;
+    font-size: 20px;
+    padding: 10px;
+}
+
+img {
+    width: 100px;
+}
